@@ -33,9 +33,9 @@ This is the room for me to place my small project with either python (Jupyter No
 
 - Financial Report:
 
-   _See on Power Bi [Here](https://github.com/kabedkaca/Power-Bi-Financial-Report-Dashboard/blob/main/Financial%20Report.pbix)
+   _See on Power Bi [Here](https://github.com/kabedkaca/Power-Bi-Financial-Report-Dashboard/blob/main/Financial%20Report.pbix)_
 
-   _View on pdf [Here](https://github.com/kabedkaca/Power-Bi-Financial-Report-Dashboard/blob/main/Financial%20Report.pdf)
+   _View on pdf [Here](https://github.com/kabedkaca/Power-Bi-Financial-Report-Dashboard/blob/main/Financial%20Report.pdf)_
 
 ### Tableau
 
