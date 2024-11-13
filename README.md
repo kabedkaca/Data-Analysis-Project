@@ -1,9 +1,9 @@
-# Portfolio_Data_Analyst
+# Portfolio Data Analyst
 
 This is the room for me to place my small project with either python (Jupyter Notebook), PowerBI, SQL and Tableau
 
 
-## Python
+### Python
 
 - Machine Learning with Pokedex Dataset:
   _Review the work [Here](https://github.com/kabedkaca/I_choose_u_pokemon_dict)_
@@ -12,26 +12,26 @@ This is the room for me to place my small project with either python (Jupyter No
   _Review the work [Here](https://github.com/kabedkaca/Titanic-ML)
 
 - Time Series Analysis with [Household Power Consumption](https://www.kaggle.com/code/vedumrajkar/electricity-consumption-time-series-analysis/notebook) :
-  _Review the work [Here](https://github.com/kabedkaca/CSP_DA24C3)
+  _Review the work [Here](https://github.com/kabedkaca/CSP_DA24C3)_
 
-## Power BI
-
-- Data Professional Survey Breakdown:
-  _See on Power Bi [Here]()_
-  _View on pdf [Here]()_
+### Power BI
 
 - Dashboard for my Capstone Project; Household Power consumption
-  _See on Power Bi [Here]()_
-  _View on pdf [Here]()_
+  _See on Power Bi [Here](https://github.com/kabedkaca/CSP_DA24C3/blob/main/power%20BI%20report/Household%20Power%20Consumption%20for%202007.pbix)_
+  _View on pdf [Here](https://github.com/kabedkaca/CSP_DA24C3/blob/main/power%20BI%20report/Household%20Power%20Consumption%20for%202007.pdf)_
+  
+- Data Professional Survey Breakdown:
+  _See on Power Bi [Here](https://github.com/kabedkaca/Power-Bi-Data-Professional-Survey/blob/main/Data%20Professional%20Survey%20Breakdown.pbix)_
+  _View on pdf [Here](https://github.com/kabedkaca/Power-Bi-Data-Professional-Survey/blob/main/Data%20Professional%20Survey.pdf)_
 
 - Financial Report:
-  _See on Power Bi [Here]()
-  _View on pdf [Here]()
+  _See on Power Bi [Here](https://github.com/kabedkaca/Power-Bi-Financial-Report-Dashboard/blob/main/Financial%20Report.pbix)
+  _View on pdf [Here](https://github.com/kabedkaca/Power-Bi-Financial-Report-Dashboard/blob/main/Financial%20Report.pdf)
 
-## Tableau
+### Tableau
 
 
-## SQL
+### SQL
 
 
 This is still ongoing journey, I'll need to review before publish it, but anyhow,gotta keep going
