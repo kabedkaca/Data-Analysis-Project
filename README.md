@@ -11,7 +11,7 @@ This is the room for me to place my small project with either python (Jupyter No
 
 - Machine Learning with [Titanic](https://www.kaggle.com/competitions/titanic) Exploration Data:
   
-  _Review the work [Here](https://github.com/kabedkaca/Titanic-ML)
+  _Review the work [Here](https://github.com/kabedkaca/Titanic-ML)_
 
 - Time Series Analysis with [Household Power Consumption](https://www.kaggle.com/code/vedumrajkar/electricity-consumption-time-series-analysis/notebook) :
 
@@ -39,7 +39,16 @@ This is the room for me to place my small project with either python (Jupyter No
 
 ### Tableau
 
+- Chocolate Business Summary
 
+  _See on Tableau workbook [Here](https://public.tableau.com/views/ChocolateBusinessSummary_17315903029590/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)_
+
+  _Review the dashboard [Here](https://github.com/kabedkaca/Tableau-Small-Project-/blob/main/Choc%20Business%20Dashboard/Chocolate%20Business%20Summary.pdf)_
+
+- Malaysia Renewable Energy Consumption
+
+  ....
+  
 ### SQL
 
 
