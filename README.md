@@ -5,33 +5,33 @@ This is the room for me to place my small project with either python (Jupyter No
 
 ### Python
 
-- Machine Learning with Pokedex Dataset:
+- **Machine Learning with Pokedex Dataset:**
   
   _Review the work [Here](https://github.com/kabedkaca/I_choose_u_pokemon_dict)_
 
-- Machine Learning with [Titanic](https://www.kaggle.com/competitions/titanic) Exploration Data:
+- **Machine Learning with [Titanic](https://www.kaggle.com/competitions/titanic) Exploration Data:**
   
   _Review the work [Here](https://github.com/kabedkaca/Titanic-ML)_
 
-- Time Series Analysis with [Household Power Consumption](https://www.kaggle.com/code/vedumrajkar/electricity-consumption-time-series-analysis/notebook) :
+- **Time Series Analysis with [Household Power Consumption](https://www.kaggle.com/code/vedumrajkar/electricity-consumption-time-series-analysis/notebook) :**
 
   _Review the work [Here](https://github.com/kabedkaca/CSP_DA24C3)_
 
 ### Power BI
 
-- Dashboard for my Capstone Project; Household Power consumption
+- **Dashboard for my Capstone Project; Household Power consumption**
 
    _See on Power Bi [Here](https://github.com/kabedkaca/CSP_DA24C3/blob/main/power%20BI%20report/Household%20Power%20Consumption%20for%202007.pbix)_
 
    _View on pdf [Here](https://github.com/kabedkaca/CSP_DA24C3/blob/main/power%20BI%20report/Household%20Power%20Consumption%20for%202007.pdf)_
   
-- Data Professional Survey Breakdown:
+- **Data Professional Survey Breakdown:**
 
    _See on Power Bi [Here](https://github.com/kabedkaca/Power-Bi-Data-Professional-Survey/blob/main/Data%20Professional%20Survey%20Breakdown.pbix)_
 
    _View on pdf [Here](https://github.com/kabedkaca/Power-Bi-Data-Professional-Survey/blob/main/Data%20Professional%20Survey.pdf)_
 
-- Financial Report:
+- **Financial Report:**
 
    _See on Power Bi [Here](https://github.com/kabedkaca/Power-Bi-Financial-Report-Dashboard/blob/main/Financial%20Report.pbix)_
 
@@ -39,13 +39,13 @@ This is the room for me to place my small project with either python (Jupyter No
 
 ### Tableau
 
-- Chocolate Business Summary
+- **Chocolate Business Summary**
 
   _See on Tableau workbook [Here](https://public.tableau.com/views/ChocolateBusinessSummary_17315903029590/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)_
 
   _Review the dashboard [Here](https://github.com/kabedkaca/Tableau-Small-Project-/blob/main/Choc%20Business%20Dashboard/Chocolate%20Business%20Summary.pdf)_
 
-- Malaysia Renewable Energy Consumption
+- **Malaysia Renewable Energy Consumption**
 
   ....
   
