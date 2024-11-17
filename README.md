@@ -31,8 +31,6 @@ This is the room for me to place my small project with either python (Jupyter No
 
    _View on pdf [Here](https://github.com/kabedkaca/Power-BI-Hospital-Patient-Dashboard/blob/main/Patient%20Wait%20List%20Dashboard/Patient%20in%20Wait%20List%20Dashboard.pdf)_
 
-![Slide1](https://github.com/user-attachments/assets/c7f77da2-56fc-4e6e-93a4-8db13d3e492c)
-
   
 - **Data Professional Survey Breakdown:**
 
