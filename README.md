@@ -25,6 +25,12 @@ This is the room for me to place my small project with either python (Jupyter No
 
    _View on pdf [Here](https://github.com/kabedkaca/CSP_DA24C3/blob/main/power%20BI%20report/Household%20Power%20Consumption%20for%202007.pdf)_
   
+- **Hospital Patient Wait List Dashboard:**
+
+   _See on Power Bi [Here](https://github.com/kabedkaca/Power-BI-Hospital-Patient-Dashboard/blob/main/Patient%20Wait%20List%20Dashboard/Hospital%20Patient%20Wait%20List%20Dashboard.pbix)_
+
+   _View on pdf [Here](https://github.com/kabedkaca/Power-BI-Hospital-Patient-Dashboard/blob/main/Patient%20Wait%20List%20Dashboard/Patient%20in%20Wait%20List%20Dashboard.pdf)_
+  
 - **Data Professional Survey Breakdown:**
 
    _See on Power Bi [Here](https://github.com/kabedkaca/Power-Bi-Data-Professional-Survey/blob/main/Data%20Professional%20Survey%20Breakdown.pbix)_
@@ -46,6 +52,7 @@ This is the room for me to place my small project with either python (Jupyter No
   _Review the dashboard [Here](https://github.com/kabedkaca/Tableau-Small-Project-/blob/main/Choc%20Business%20Dashboard/Chocolate%20Business%20Summary.pdf)_
 
 - **Malaysia Renewable Energy Consumption**
+  >...
 
   ....
   
