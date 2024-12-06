@@ -30,7 +30,13 @@ _Review the work [Here](https://github.com/kabedkaca/MySQL-it-s-time-for-pizza/b
    _See on Power Bi [Here](https://github.com/kabedkaca/CSP_DA24C3/blob/main/power%20BI%20report/Household%20Power%20Consumption%20for%202007.pbix)_
 
    _View on pdf [Here](https://github.com/kabedkaca/CSP_DA24C3/blob/main/power%20BI%20report/Household%20Power%20Consumption%20for%202007.pdf)_
-  
+
+- **Agriculture Sales across USA based on certain parameter:**
+
+   _See on Power Bi [Here](https://github.com/kabedkaca/PowerBI-Agriculture-Board/tree/main)_
+
+   _View on pdf [Here]()_  
+
 - **Hospital Patient Wait List Dashboard:**
 
    _See on Power Bi [Here](https://github.com/kabedkaca/Power-BI-Hospital-Patient-Dashboard/blob/main/Patient%20Wait%20List%20Dashboard/Hospital%20Patient%20Wait%20List%20Dashboard.pbix)_
