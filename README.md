@@ -17,6 +17,12 @@ This is the room for me to place my small project with either python (Jupyter No
 
   _Review the work [Here](https://github.com/kabedkaca/CSP_DA24C3)_
 
+### MySQL
+- **Analysis the pizza restaurant sale**
+  
+_Review the work [Here](https://github.com/kabedkaca/MySQL-it-s-time-for-pizza/blob/main/pizza_sales_problem_statement.sql)_
+
+
 ### Power BI
 
 - **Dashboard for my Capstone Project; Household Power consumption**
